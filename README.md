@@ -69,7 +69,7 @@ O sistema funciona vinculando um **CÓDIGO** a um **ARQUIVO DE VÍDEO**.
   * (Opcional) Coloque uma imagem `.jpg` com o **número do código** na pasta `img/` (Ex: `1500.jpg`).
 
 ### 2\. Edite o `lista.js`
-
+```
 Abra o arquivo `lista.js` e adicione a entrada no formato JSON:
 
 var musicas = {
@@ -84,6 +84,7 @@ var musicas = {
 >   * Código: `00001`
 >   * No `lista.js`: `"Evidencias - Chitaozinho e Xororo"`
 >   * Arquivo: `music/Evidencias - Chitaozinho e Xororo.mp4`
+```
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -99,6 +100,3 @@ Sinta-se à vontade para fazer um fork deste projeto e enviar pull requests. Sug
 ## 📝 Licença
 
 Este projeto é de uso pessoal e educacional.
-
-
-Isso vai fazer seu portfólio no GitHub ficar muito mais atraente!
